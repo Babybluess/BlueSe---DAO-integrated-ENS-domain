@@ -16,6 +16,11 @@
 
 • Integrate Secret key cluster associated with ENS name to increase security in accessing and interacting on BlueSe
 
+# Explanation
+![image](https://github.com/Babybluess/BlueSe---DAO-integrated-ENS-domain/assets/141993184/235a66ab-1d07-48f5-9af6-cb6982437d18)
+
+![image](https://github.com/Babybluess/BlueSe---DAO-integrated-ENS-domain/assets/141993184/af36b048-5c32-4ff2-9708-89b8e0ffa601)
+
 # Product Features
 • Using 6 secret key to edit profile.
 
@@ -26,11 +31,5 @@
 • Comment and report post.
 
 • Add Friends.
-
-# Explanation
-![image](https://github.com/Babybluess/BlueSe---DAO-integrated-ENS-domain/assets/141993184/235a66ab-1d07-48f5-9af6-cb6982437d18)
-
-![image](https://github.com/Babybluess/BlueSe---DAO-integrated-ENS-domain/assets/141993184/af36b048-5c32-4ff2-9708-89b8e0ffa601)
-
 
 # Handshake name service: https://hns.to/bluese.xn--2v9hnk
